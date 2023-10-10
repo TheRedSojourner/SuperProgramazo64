@@ -8,7 +8,8 @@
             Persona martin = new Persona();
 
             List<Persona> personas = new List<Persona>();
-
+            //Esta es una linea de comentarios tralalala lala la la
+            //la
             personas.Add(jorge);
             personas.Add(martin);
             martin.nombre = "Martin";
