@@ -1,0 +1,14 @@
+C:\Users\Ice\source\repos\SuperProgramazo64\bin\Debug\net7.0\SuperProgramazo64.exe
+C:\Users\Ice\source\repos\SuperProgramazo64\bin\Debug\net7.0\SuperProgramazo64.deps.json
+C:\Users\Ice\source\repos\SuperProgramazo64\bin\Debug\net7.0\SuperProgramazo64.runtimeconfig.json
+C:\Users\Ice\source\repos\SuperProgramazo64\bin\Debug\net7.0\SuperProgramazo64.dll
+C:\Users\Ice\source\repos\SuperProgramazo64\bin\Debug\net7.0\SuperProgramazo64.pdb
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.AssemblyInfoInputs.cache
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.AssemblyInfo.cs
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.csproj.CoreCompileInputs.cache
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.dll
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\refint\SuperProgramazo64.dll
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.pdb
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\SuperProgramazo64.genruntimeconfig.cache
+C:\Users\Ice\source\repos\SuperProgramazo64\obj\Debug\net7.0\ref\SuperProgramazo64.dll
