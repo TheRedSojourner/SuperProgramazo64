@@ -14,7 +14,7 @@
             martin.nombre = "Martin";
 
             personas.Remove(jorge);
-            AgregarPersona(personas);
+            
             RemovePersonaFromListByName(personas, "Gutz");
 
         }
